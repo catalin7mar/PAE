@@ -1,0 +1,20 @@
+benötigt python 3.5.x oder höher!!
+benötigt tensaflow(installation via pip3)
+Tensaflow Installations anleitung:
+windows:
+https://www.tensorflow.org/install/install_windows
+mac:
+https://www.tensorflow.org/install/install_mac
+
+konnte es nur mit windows testen
+
+um ein bild einzufügen in test.py in zeile 5 einen pfad zu einen jpg bild angeben
+danach test.py ausführen
+
+classer_service.py: ist der service den wir dann für unser programm benutzen
+classify_image: ist vom tutoriel aber ein bischen modifiziert damit wir es auch verwenen können
+test.py: nur um das ganze zu testen (wichtig ein Pfad zu einen bild muss man hier im code reinchreiben sonst bekommt man eine fehler meldung)
+
+ich hoffe auf mac funktioniert das mit tensaflow auch aber wenn das tutoriel läuft dann sollts gehen:
+https://www.tensorflow.org/tutorials/image_recognition 
+
